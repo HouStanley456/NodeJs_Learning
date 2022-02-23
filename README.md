@@ -2,13 +2,13 @@
 
 - Lesson 1
   
-  Hello.js
+  - Hello.js
   
 - Lesson 2
 
-  Server.js
+  - Server_one.js
 
 - Lesson 3
 
-  Server2.js
-  html
+  - Server_two.js
+  - html
